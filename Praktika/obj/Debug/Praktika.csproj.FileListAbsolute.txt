@@ -1,0 +1,11 @@
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\Praktika.csproj.AssemblyReference.cache
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\Praktika.csproj.SuggestedBindingRedirects.cache
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\AddData.g.cs
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\DeleteData.g.cs
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\Main.g.cs
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\Login.g.cs
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\Otchet.g.cs
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\App.g.cs
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+C:\UsersProfile\pr10sekachev\Desktop\Project\Praktika\Praktika\obj\Debug\Praktika_Content.g.cs
